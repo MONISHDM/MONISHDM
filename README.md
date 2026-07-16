@@ -92,7 +92,11 @@ public class MonishDM {
     }
 }
 ---
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,docker,aws,git,github,vscode,eclipse,figma"/>
+
+</p>
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -132,6 +136,13 @@ public class MonishDM {
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MONISHDM/MONISHDM/output/github-contribution-grid-snake.svg">
+
+</p>
 
 # 🏆 GitHub Trophy Wall
 
@@ -142,6 +153,21 @@ public class MonishDM {
 </p>
 
 ---
+<p align="center">
+
+<a href="https://github.com/MONISHDM/School-Timetable-Management-System">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MONISHDM&repo=School-Timetable-Management-System&theme=tokyonight">
+
+</a>
+
+<a href="https://github.com/MONISHDM/Crop-Yield-Prediction">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MONISHDM&repo=Crop-Yield-Prediction&theme=tokyonight">
+
+</a>
+
+</p>
 
 # 📌 Coding Profiles
 
@@ -414,6 +440,17 @@ DSA             ████████████████████░�
 
 ---
 
+☑ Master Spring Boot
+
+☑ Solve 500+ LeetCode Problems
+
+☑ Learn System Design
+
+☑ Build 10+ Full Stack Projects
+
+☑ Contribute to Open Source
+
+☑ Secure a Software Engineer Role
 # 🌱 Currently Learning
 
 ```text
