@@ -7,7 +7,7 @@ Hi 👋, I'm MONISH DM
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Learner;DSA+%7C+Open+Source+%7C+Continuous+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Backend+Developer;Spring+Boot+%7C+REST+API+Developer;Problem+Solver+%7C+Open+Source+Learner;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -44,54 +44,43 @@ Hi 👋, I'm MONISH DM
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class MonishDM {
+```yaml
+name: MONISH DM
+role: Software Developer
 
-    String name = "MONISH DM";
+location: Salem, Tamil Nadu, India
 
-    String location = "Salem, Tamil Nadu, India";
+education:
+  degree: B.Tech Information Technology
+  college: Sri Krishna College of Technology
 
-    String degree =
-        "B.Tech Information Technology";
+skills:
+  - Java
+  - Spring Boot
+  - REST APIs
+  - SQL
+  - MySQL
+  - React
+  - Docker
+  - AWS
 
-    String college =
-        "Sri Krishna College of Technology";
+currently_learning:
+  - Microservices
+  - System Design
+  - Advanced DSA
 
-    String role =
-        "Java Backend Developer";
+interests:
+  - Backend Development
+  - Software Engineering
+  - Cloud Computing
+  - Open Source
 
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "JDBC",
-        "MySQL",
-        "React",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "AWS",
-        "Docker",
-        "Git"
-    };
+goal: Build scalable applications and solve real-world problems.
 
-    String[] currentlyLearning = {
-        "Advanced Spring Boot",
-        "Microservices",
-        "System Design",
-        "DSA",
-        "Docker",
-        "AWS"
-    };
-
-    String funFact =
-        "I enjoy solving coding challenges and building scalable applications.";
-
-    String motto() {
-        return "Keep Learning • Keep Building • Keep Growing";
-    }
-}
----
+fun_fact: >
+  I enjoy turning ideas into software and continuously improving
+  through coding challenges and real-world projects.
+```
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,docker,aws,git,github,vscode,eclipse,figma"/>
